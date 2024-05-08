@@ -3,4 +3,4 @@ To design this system I've used python language with different modules like open
 In this we have two modes :-
 1) Image mode - In this, we can detect text from image which is already present in the system.
 2) Webcam mode - In this, we can detect text from image by caputuring image using webcam present in the system.
-3) 
+   
